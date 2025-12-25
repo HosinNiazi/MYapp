@@ -1,0 +1,8 @@
+{
+  "name": "DaneshjooYar - Smart Student Assistant",
+  "description": "A comprehensive AI-powered student assistant featuring smart tutoring, emotional support, document summarization, and study planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
